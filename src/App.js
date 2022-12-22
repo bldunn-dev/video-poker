@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Card name="QH" />
+        <h1>Video Poker</h1>
+        <Card value="QH" />
       </header>
     </div>
   );
